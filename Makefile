@@ -12,5 +12,3 @@ main.o: sum.h main.cpp
 clean:
 	rm -f sum.o main.o
 	rm -f sum
-
-
